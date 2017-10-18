@@ -1,0 +1,2 @@
+# KonkatsuDiary
+Marriage hunting Diary
